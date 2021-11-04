@@ -2,10 +2,6 @@
 
 <h3 align="center">IT Consultant in Tokyo (Previously Android & iOS app, Web Engineer)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joker-ueky&label=Profile%20views&color=0e75b6&style=flat" alt="joker-ueky" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joker-ueky" alt="joker-ueky" /></a> </p>
-
 <p align="left"> 
   <a href="https://github.com/Joker-UEKY/Joker-UEKY/">
     <img src="https://komarev.com/ghpvc/?username=Joker-UEKY" alt="Joker-UEKY" />
@@ -21,12 +17,14 @@
   </a>
 </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joker-ueky" alt="joker-ueky" /></a> </p>
+
 <p>
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Joker-UEKY&theme=monokai)
+![]("https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Joker-UEKY&theme=monokai")
 </p>
 
 <p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=Joker-UEKY&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy]("https://github-profile-trophy.vercel.app/?username=Joker-UEKY&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy")
 </p>
 
 <h3 align="left">Connect with me:</h3>
