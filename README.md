@@ -17,6 +17,10 @@
   </a>
 </p>
 
+
+<img src="https://github.com/Joker-UEKY/Joker/blob/main/images/stat.svg" alt="Alternative Text"/>
+Example: <img src="https://github.com/avinal/avinal/blob/main/images/stat.svg" alt="Avinal WakaTime Activity"/>
+
 <h3 align="left">Summary:</h3>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Joker-UEKY&theme=monokai)
