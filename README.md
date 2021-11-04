@@ -13,6 +13,5 @@
   </a>
 </p>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Joker-UEKY&theme=monokai) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joker-UEKY&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Joker-UEKY&theme=monokai)
 [![trophy](https://github-profile-trophy.vercel.app/?username=Joker-UEKY&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
