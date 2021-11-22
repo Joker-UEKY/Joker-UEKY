@@ -19,7 +19,8 @@
 
 <h3 align="left">Summary:</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joker-UEKY&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joker-UEKY)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <h3 align="left">Trophy:</h3>
 
