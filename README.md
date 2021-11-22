@@ -19,7 +19,7 @@
 
 <h3 align="left">Summary:</h3>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Joker-UEKY&theme=monokai)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JokerUEKY)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Trophy:</h3>
 
