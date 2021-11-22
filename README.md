@@ -17,9 +17,8 @@
   </a>
 </p>
 
-<h3 align="left">Summary:</h3>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joker-UEKY)](https://github.com/anuraghazra/github-readme-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joker-UEKY&show_icons=true&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=monokai)
 
 <h3 align="left">Trophy:</h3>
 
